@@ -1,0 +1,28 @@
+Project:
+A budget planner for personal finance. A standalone app capable of recording transactions and
+analyzing trends. It should be easy to enter transactions and see the data filtered.
+
+Features:
+Transactions that can be filtered by type or date
+	- debet
+	- credit
+	- bills
+		-> gas
+		-> electirc
+		-> water
+		-> trash
+	- savings
+		-> account
+		-> retirement
+	- income
+	- bonus
+	- personal
+
+
+Grapics:
+	- spending by month
+	- savings by month
+	- income vs expences
+	- bills over time
+	- Thermometer for Morgage
+	- Budget accuricy by month
