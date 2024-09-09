@@ -3,6 +3,7 @@
 # A simple personal budget
 
 import pandas as pd
+import gui
 
 def main():
 
@@ -21,6 +22,8 @@ def main():
 
     print(accounts_df)
     print(transactions_df)
+
+    gui.main_loop()
 
 if __name__ == "__main__":
     main()
